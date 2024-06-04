@@ -13,7 +13,7 @@
   
   .container {
     height: 100vh; /* Set the container height to the full viewport height */
-    background-image: url('kitten_wearing_a_leprechaun_ou.jpeg'); /* Replace with your desired background image */
+    background-image: url('https://github.com/bftsu/bftsu.github.io/blob/bdd078e963986efa0cd5e0cb1d5d404c9999e591/kitten_wearing_a_leprechaun_ha.jpeg'); /* Replace with your desired background image */
     background-size: cover;
     background-position: center;
     display: flex;
